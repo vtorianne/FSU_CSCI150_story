@@ -77,7 +77,7 @@ def story():
     #add_line("") #no wild cards                                                                
     #add_line("{0}".format(var)) #with wild card
     
-    add_line(“You won’t believe what happened next!”)
+    add_line("The End")
 
 
     
